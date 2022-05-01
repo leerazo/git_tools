@@ -18,3 +18,23 @@ And if I am not mistaken, [this should appear as a link to a very useful website
 
 How about inserting an image?
 ![Snollebollekes lover!](An-image.jpeg)
+
+Fenced code block:
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
+
+`some code`
+
+A table:
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
+A heading with an ID
+### My Great Heading {#custom-id}
