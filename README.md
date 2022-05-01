@@ -8,7 +8,10 @@ Always very grateful for any feedback.
 ## Markdown Language 
 I'm also using this opportunity to learn and practice a bit of Markdown language! > I guess this represents a block quote?
 
+> I guess this
+> represents a 
 > blockquote
+> in Markdown language....
 
 ## More Markdown Language 
 And if I am not mistaken, [this should appear as a link to a very useful website.](https://theuselessweb.com/)
