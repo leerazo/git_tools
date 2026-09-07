@@ -4,7 +4,8 @@ sudo apt-get install git -y
 sudo apt install gh -y
 
 # Some handy commands
-git config --global user.name "leerazo"
+git config --global user.name "username"
+git config --global user.email "email@address.com"
 # git auth login
 
 # Use this if there is a file you want to edit freely but do not want to push the changes back to the repo (like credentials for a Neo4j instance)
